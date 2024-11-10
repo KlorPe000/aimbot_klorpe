@@ -115,7 +115,7 @@ getgenv().ExunysDeveloperAimbot = {
 		NumSides = 60,
 
 		Thickness = 1,
-		Transparency = 1,
+		Transparency = 0,
 		Filled = false,
 
 		RainbowColor = false,
